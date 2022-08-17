@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://sequelize.org/" target="_blank"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--fTAl8sHL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn-images-1.medium.com/max/1600/1%2AXcE0wR1ZmWLFbdF2dE5WuA.png" alt="sequelize" width="40" height="30"/> </a> 
 <a href="https://www.mongodb.com" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" alt="mongoDB" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://hotsechu.files.wordpress.com/2021/03/mysqlworkbench_2.png" alt="workbench" width="40" height="40"/> </a> 
+<a href="https://mui.com/" target="_blank"> <img src="https://v4.material-ui.com/static/logo.png" alt="materialUI" width="40" height="40"/> </a> 
+
